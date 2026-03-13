@@ -15,3 +15,22 @@ CPU Utilization
 Memory Usage
 Network Traffic
 Server Availability
+
+
+Project Structure
+server-monitoring-data-pipeline
+│
+├── data
+│   └── Sample_Data_Ingestion.csv
+│
+├── scripts
+│   └── pipeline.py
+│
+├── dashboard
+│   └── server_dashboard.pbix
+│
+├── presentation
+│   └── project_presentation.pptx
+│
+└── README.md
+
